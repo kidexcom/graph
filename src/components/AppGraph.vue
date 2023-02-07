@@ -1,13 +1,11 @@
 <template>
-  <div class="container">
+  <div class="graph-wrapper">
 
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'HomeView',
-  components: {}
+
 }
 </script>
